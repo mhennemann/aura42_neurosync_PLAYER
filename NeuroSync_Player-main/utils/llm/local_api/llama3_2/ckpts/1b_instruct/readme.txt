@@ -1,1 +1,0 @@
-get the consolidated.00.pth from huggingface here : https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct/tree/main/original
